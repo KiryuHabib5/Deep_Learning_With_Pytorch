@@ -1,4 +1,4 @@
-name: orbit_env
+name:my_env
 channels:
   - pytorch
   - anaconda
@@ -260,4 +260,3 @@ dependencies:
     - threadpoolctl==3.0.0
     - wget==3.2
     - xgboost==0.80
-prefix: D:\Pemrograman\miniconda3\envs\orbit_env
